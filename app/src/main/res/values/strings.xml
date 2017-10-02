@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Retro App</string>
+
+
+    <string name="user_name">Username</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_do_list">TO DO LIST</string>
+</resources>

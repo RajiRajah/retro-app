@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatarSize">40dp</dimen>
+    <dimen name="avatarSize_lg">120dp</dimen>
+    <dimen name="mediumMargin">5dp</dimen>
+    <dimen name="mediumMargin1">10dp</dimen>
+    <dimen name="mediumPadding">5dp</dimen>
+    <dimen name="normalPadding">10dp</dimen>
+    <dimen name="mediumText">18dp</dimen>
+    <dimen name="smallText">15dp</dimen>
+    <dimen name="normalText">25dp</dimen>
+
+    <dimen name="cardElevationSize">1dp</dimen>
+    <dimen name="cardRadius">1dp</dimen>
+</resources>
